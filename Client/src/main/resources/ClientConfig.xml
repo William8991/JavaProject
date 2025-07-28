@@ -1,0 +1,4 @@
+<clientconfig>
+    <port>8888</port>
+    <ip>localhost</ip>
+</clientconfig>

@@ -1,0 +1,19 @@
+package Progetto.Body;
+
+public enum StateMenu {
+    NONE,
+    LOGIN,
+    REGISTRATION,
+    SECRETARIAT,
+    EMPLOYEE,
+    PATIENT,
+    EXIT,
+    DATI_PERSONALI,
+    MANAGE_DIPENDENTI,
+    MANAGE_PAZIENTI,
+    MODIFY_DATI_PERSONALI,
+    DATI_PROFESSIONALI,
+    APPUNTAMENTI,
+    TICKETS
+
+}
